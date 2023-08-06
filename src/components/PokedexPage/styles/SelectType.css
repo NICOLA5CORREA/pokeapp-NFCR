@@ -1,0 +1,20 @@
+.select__wrap{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.select__type{
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.select__type:hover {
+    cursor: pointer;
+}
+
+.options__type{
+    color: rgb(226, 74, 74);
+    text-transform : capitalize;
+}
